@@ -1,3 +1,5 @@
 /build/
 /dist/
 /Player_For_Show.spec
+.idea/
+__pycache__/
