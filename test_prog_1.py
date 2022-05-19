@@ -4,3 +4,4 @@ for ind in range(5):
     print("Печать в main")
 # Коментарий в main
 
+    print("Печать в branch-2")
